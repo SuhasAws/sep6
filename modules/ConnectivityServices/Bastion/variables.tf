@@ -1,0 +1,10 @@
+variable "BSTN-SB1-name" {}
+variable "resource-group-name" {}
+variable "vnet-name" {}
+variable "BSTN-SB1-address_prefixes" {}
+variable "location" {}
+variable "BSTN-pip-name" {}
+variable "BSTN-pip-allocation_method" {}
+variable "BSTN-pip-sku" {}
+variable "BHOST-name" {}
+variable "BHOST-ip-name" {}

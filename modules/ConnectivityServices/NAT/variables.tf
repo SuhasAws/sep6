@@ -1,0 +1,10 @@
+variable "resource-group2-name" {}
+variable "vnet2-name" {}
+variable "location2" {}
+variable "Nat-SB-name" {}
+variable "Nat-SB-address_prefixes" {}
+variable "NAT-pip-name" {}
+variable "NAT-pip-allocation_method" {}
+variable "NAT-pip-sku" {}
+variable "NAT-GWY-name" {}
+variable "NAT-GWY-sku_name" {}
